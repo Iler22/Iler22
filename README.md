@@ -1,5 +1,5 @@
 - 👋 Hi, there I’m Iler
--  :office:Currently I am studying full stack development with the University of Manchester.
+-  :office:Currently I am studying full stack software development at the University of Manchester.
 - 🌱 I’m currently learning JavaScript, Node, Express and React.
 - 💞️ I’m looking to collaborate on JavaScript, Node, Express and React.
 
